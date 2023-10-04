@@ -1,6 +1,6 @@
 # Elas_na_Tech Projeto Final - Site Pessoal
 
-[Site Pessoal](https://klaynmolina.github.io/ElasNaTech_ProjetoFinal/)
+[Site Pessoal](https://klaynmolina.github.io)
 
 Meu projeto de site pessoal foi criado com o objetivo de estabelecer uma presença online onde posso apresentar minhas habilidades, projetos e informações de contato de uma maneira atraente. A tela inicial é uma introdução que destaca quem sou. Além disso, você pode acessar meu currículo para obter detalhes mais abrangentes sobre minha formação e experiência. 
 
