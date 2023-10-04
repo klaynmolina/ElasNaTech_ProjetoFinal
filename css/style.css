@@ -114,10 +114,6 @@ a {
     cursor: pointer;
 }
 
-.bar img {
-    width: 10vw;
-}
-
 .overlay {
     display: none;
     position: fixed;
@@ -266,6 +262,14 @@ footer a:hover {
     transition: all .5s ease;
 }
 
+.done {
+    position: fixed;
+    bottom: 25px;
+    left: 0;
+    right: 0;
+    margin-bottom: 10px;
+}
+
 .creditos {
     padding: 0;
     margin: 0;
@@ -360,6 +364,10 @@ footer a:hover {
         padding: 50px 20px;
         z-index: 2;
         font-size: 3rem;
+    }
+
+    .bar img {
+        width: 10vw;
     }
 
     .overlay.active {
@@ -468,6 +476,10 @@ footer a:hover {
         padding: 50px 20px;
         z-index: 2;
         font-size: 2.5rem;
+    }
+
+    .bar img {
+        width: 8vw;
     }
 
     .overlay.active {
