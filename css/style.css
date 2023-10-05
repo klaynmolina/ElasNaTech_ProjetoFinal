@@ -134,13 +134,14 @@ a {
 }
 
 .project-sections {
-    width: 45vw;
+    width: 60vw;
     display: flex;
     justify-content: center;
     align-items: center;
     align-self: center;
     flex-wrap: wrap;
     height: auto;
+
 }
 
 .foto {
